@@ -1,5 +1,12 @@
 <?php
 
+/**
+* Project Name: Lib Telegram Generator
+* Language Code : PHP
+* Build Date : 21/7/2020 (6 am) (Yogyakarta, Indonesia)
+* Author : @aghisna12
+*/
+
 //curl method get
 function curl_get($url)
 {
