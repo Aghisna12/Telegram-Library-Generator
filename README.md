@@ -5,7 +5,7 @@ Generate Telegram Library Source, Based From Scrapping Url Docs [https://core.te
 
 ## Support Language Code
 * JavaScript
-* C/C++ (unstable)
+* C/C++ (unstable/onprogress)
 
 ### Example Url Generate Library Method
 * Javascript : [http://aghisna.xyz/libgram.php?source=javascript](http://aghisna.xyz/libgram.php?source=javascript)
